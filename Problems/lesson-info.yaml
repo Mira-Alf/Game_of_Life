@@ -1,0 +1,205 @@
+content:
+- Calculator
+- Returning from a method
+- Iterations
+- An anonymous class with a single method
+- An anonymous class with three methods
+- String reverser
+- A long process
+- Returning values from an anonymous class
+- Output names of the methods
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- 2 weeks after
+- The last day of a month
+- Print dates of a year with an offset
+- 10 days before
+- Getting information on a day
+- 30 years before and after
+- Find all mondays
+- The first and the last day of a month
+- Convert numbers to days
+- The first day of a month or not
+- The n-th day from the end of a month
+- Seconds since start of a day
+- Return time without seconds
+- Seconds between two time points
+- Some hours and minutes ago
+- Subtracting hours and adding minutes
+- Merging date-time instances
+- Whole hours between two date-time pairs
+- Add days and subtract hours
+- Add 11 hours and print the date
+- Adding N minutes
+- The passed hours since the beginning of year
+- Find the latest date-time
+- Don't be late again
+- The intersection of time ranges
+- Is the date between the two other dates
+- The New Year is coming (or not)
+- How many date-time pairs match the range
+- Vehicle registration number
+- Check IP address
+- Illegal identifiers
+- Check the clock time
+- Safe password
+- Start or end of a word
+- Find a word with a given length
+- Number parsing
+- In the middle of a word
+- Remove extra spaces
+- Remove HTML tags
+- Remove comments
+- Extracting big numbers from a text
+- Extracting words from a text
+- Find all passwords
+- Throw an unchecked exception
+- The root of a number
+- Days of the week
+- Throw a checked exception
+- Throw an IOException
+- Out of bounds!
+- Users as strings
+- Time as a string
+- Books as strings
+- Account
+- Convert persons and patients to string
+- Convert vehicles and cars to string
+- Field count
+- Declared fields
+- Retrieve class name
+- Getting Superclass
+- Find the Method
+- List public fields
+- List private fields
+- Field value
+- Annotated fields
+- Constructor Checker
+- Who is who
+- Counting 2D shapes
+- Sum of the areas
+- Sort out the classes
+- Serializable user
+- The Range class
+- Complex numbers
+- Slightly mocking
+- Testing the factorial
+- Find integer values of Log levels
+- Pastry packing optimization
+- Boxes are not just objects!
+- Pets and boxes
+- Writing a class
+- Pets in boxes
+- Packing backeries
+- List multiplicator
+- Max of two integers
+- Ternary predicate
+- Creating a closure
+- Next even number
+- Production of all numbers in the range
+- Getting distinct strings
+- Expression closure
+- Violator
+- A lambda expression with seven arguments
+- Ascending and descending sorting
+- Apply function to all elements
+- Getting the type of comparator
+- Ternary operator
+- Quality control system
+- Accounts
+- An infinite numbers supplier
+- Photocopiers
+- The chain of responsibility
+- Disjunct all
+- Curried function
+- Multifunctional mapper
+- The address book
+- Reducer operator
+- String concatenation
+- Output the list's elements
+- Concat positive numbers
+- Find the nearest number
+- Creating list
+- Squares list
+- Blacklist
+- Companies
+- Backward indexes
+- Multiple swaps
+- Greek letters
+- Rotating table
+- Filtering the list
+- The longest string in the list
+- Split a list into sublists
+- Count the value occurrences
+- Sorting sequences
+- The first index of a sublist
+- Frequency of characters
+- Output elements
+- Removing elements
+- Spell checker
+- Even numbers go first
+- The LIFO principle in action
+- Creating a set
+- Symmetric difference
+- Removing duplicates and sorting
+- Strict superset
+- Working with queue
+- Remove elements of a collection
+- Greedy load balance
+- Finding the max number
+- Html Parser
+- No  J
+- Which brackets are balanced
+- Getting the max element of a stack
+- Hip-Hop
+- Reversed list
+- Iterable range
+- Displaying pairs
+- Modifying a map
+- Kidnapper of Ice cream
+- Creating a map
+- A sorted stream
+- Counting words
+- Print elements of a stream
+- Tricky sub-maps
+- Finding max and min elements
+- War and Peace
+- Substitution cipher
+- Getting submaps
+- Count passwords
+- Sherlock Holmes and the mystery of anagrams
+- Sherlock Holmes and removing of characters
+- Omitting long strings
+- Multiset
+- Numbers filtering
+- Bad words detecting
+- Check if a number is prime
+- Maximum of the absolute values
+- Sorting the absolute values
+- Count words without repetitions
+- Sum of divisors
+- Range quadratic sum
+- Calculating factorials
+- ASCII Art
+- Set average
+- The average salary
+- The product of squares
+- The total number of employees
+- Secret codes
+- The total sum of canceled transactions
+- Prime numbers
+- The sum of odd numbers
+- Inverting streams
+- The ten most frequent words
+- Using streams many times
+- Powers of two
+- Palindrome or not
+- The total sum of transaction by each account
+- Counting clicks
+- Boxes
+- Interrupting a thread
+- Handling interruptions
+- Finding and starting a thread
+- Find a value's index

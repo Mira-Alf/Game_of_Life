@@ -1,0 +1,307 @@
+# Project exclude paths
+/.gradle/
+/Game of Life/task/build/
+/Game of Life/task/out/
+/Game of Life/task/out/production/classes/
+/Problems/2 weeks after/out/
+/Problems/2 weeks after/out/production/classes/
+/Problems/10 days before/out/
+/Problems/10 days before/out/production/classes/
+/Problems/30 years before and after/out/
+/Problems/30 years before and after/out/production/classes/
+/Problems/A long process/out/
+/Problems/A long process/out/production/classes/
+/Problems/A sorted stream/out/
+/Problems/A sorted stream/out/production/classes/
+/Problems/Add days and subtract hours/out/
+/Problems/Add days and subtract hours/out/production/classes/
+/Problems/Add 11 hours and print the date/out/
+/Problems/Add 11 hours and print the date/out/production/classes/
+/Problems/Adding N minutes/out/
+/Problems/Adding N minutes/out/production/classes/
+/Problems/An anonymous class with a single method/out/
+/Problems/An anonymous class with a single method/out/production/classes/
+/Problems/An anonymous class with three methods/out/
+/Problems/An anonymous class with three methods/out/production/classes/
+/Problems/An infinite numbers supplier/out/
+/Problems/An infinite numbers supplier/out/production/classes/
+/Problems/Apply function to all elements/out/
+/Problems/Apply function to all elements/out/production/classes/
+/Problems/ASCII Art/out/
+/Problems/ASCII Art/out/production/classes/
+/Problems/Avoid NPE/out/
+/Problems/Avoid NPE/out/production/classes/
+/Problems/Backward indexes/out/
+/Problems/Backward indexes/out/production/classes/
+/Problems/Blacklist/out/
+/Problems/Blacklist/out/production/classes/
+/Problems/Books as strings/out/
+/Problems/Books as strings/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Calculator/out/
+/Problems/Calculator/out/production/classes/
+/Problems/Check if a number is prime/out/
+/Problems/Check if a number is prime/out/production/classes/
+/Problems/Check IP address/out/
+/Problems/Check IP address/out/production/classes/
+/Problems/Check the clock time/out/
+/Problems/Check the clock time/out/production/classes/
+/Problems/Companies/out/
+/Problems/Companies/out/production/classes/
+/Problems/Concat positive numbers/out/
+/Problems/Concat positive numbers/out/production/classes/
+/Problems/Convert numbers to days/out/
+/Problems/Convert numbers to days/out/production/classes/
+/Problems/Count passwords/out/
+/Problems/Count passwords/out/production/classes/
+/Problems/Count the value occurrences/out/
+/Problems/Count the value occurrences/out/production/classes/
+/Problems/Count words without repetitions/out/
+/Problems/Count words without repetitions/out/production/classes/
+/Problems/Counting clicks/out/
+/Problems/Counting clicks/out/production/classes/
+/Problems/Counting words/out/
+/Problems/Counting words/out/production/classes/
+/Problems/Creating a map/out/
+/Problems/Creating a map/out/production/classes/
+/Problems/Creating a set/out/
+/Problems/Creating a set/out/production/classes/
+/Problems/Creating list/out/
+/Problems/Creating list/out/production/classes/
+/Problems/Curried function/out/
+/Problems/Curried function/out/production/classes/
+/Problems/Days of the week/out/
+/Problems/Days of the week/out/production/classes/
+/Problems/Displaying pairs/out/
+/Problems/Displaying pairs/out/production/classes/
+/Problems/Don't be late again/out/
+/Problems/Don't be late again/out/production/classes/
+/Problems/Even numbers go first/out/
+/Problems/Even numbers go first/out/production/classes/
+/Problems/Extracting big numbers from a text/out/
+/Problems/Extracting big numbers from a text/out/production/classes/
+/Problems/Extracting words from a text/out/
+/Problems/Extracting words from a text/out/production/classes/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Find a value's index/out/
+/Problems/Find a value's index/out/production/classes/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Find all mondays/out/
+/Problems/Find all mondays/out/production/classes/
+/Problems/Find all passwords/out/
+/Problems/Find all passwords/out/production/classes/
+/Problems/Find integer values of Log levels/out/
+/Problems/Find integer values of Log levels/out/production/classes/
+/Problems/Find the latest date-time/out/
+/Problems/Find the latest date-time/out/production/classes/
+/Problems/Find the Method/out/
+/Problems/Find the Method/out/production/classes/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/Finding max and min elements/out/
+/Problems/Finding max and min elements/out/production/classes/
+/Problems/Finding the max number/out/
+/Problems/Finding the max number/out/production/classes/
+/Problems/Frequency of characters/out/
+/Problems/Frequency of characters/out/production/classes/
+/Problems/Getting information on a day/out/
+/Problems/Getting information on a day/out/production/classes/
+/Problems/Getting submaps/out/
+/Problems/Getting submaps/out/production/classes/
+/Problems/Getting the max element of a stack/out/
+/Problems/Getting the max element of a stack/out/production/classes/
+/Problems/Getting the type of comparator/out/
+/Problems/Getting the type of comparator/out/production/classes/
+/Problems/Greedy load balance/out/
+/Problems/Greedy load balance/out/production/classes/
+/Problems/Greek letters/out/
+/Problems/Greek letters/out/production/classes/
+/Problems/Hip-Hop/out/
+/Problems/Hip-Hop/out/production/classes/
+/Problems/How many date-time pairs match the range/out/
+/Problems/How many date-time pairs match the range/out/production/classes/
+/Problems/Html Parser/out/
+/Problems/Html Parser/out/production/classes/
+/Problems/Illegal identifiers/out/
+/Problems/Illegal identifiers/out/production/classes/
+/Problems/In the middle of a word/out/
+/Problems/In the middle of a word/out/production/classes/
+/Problems/Interrupting a thread/out/
+/Problems/Interrupting a thread/out/production/classes/
+/Problems/Is the date between the two other dates/out/
+/Problems/Is the date between the two other dates/out/production/classes/
+/Problems/Iterations/out/
+/Problems/Iterations/out/production/classes/
+/Problems/Kidnapper of Ice cream/out/
+/Problems/Kidnapper of Ice cream/out/production/classes/
+/Problems/List multiplicator/out/
+/Problems/List multiplicator/out/production/classes/
+/Problems/List public fields/out/
+/Problems/List public fields/out/production/classes/
+/Problems/Maximum of the absolute values/out/
+/Problems/Maximum of the absolute values/out/production/classes/
+/Problems/Merging date-time instances/out/
+/Problems/Merging date-time instances/out/production/classes/
+/Problems/Modifying a map/out/
+/Problems/Modifying a map/out/production/classes/
+/Problems/Multifunctional mapper/out/
+/Problems/Multifunctional mapper/out/production/classes/
+/Problems/Multiple swaps/out/
+/Problems/Multiple swaps/out/production/classes/
+/Problems/No  J/out/
+/Problems/No  J/out/production/classes/
+/Problems/Number parsing/out/
+/Problems/Number parsing/out/production/classes/
+/Problems/Numbers filtering/out/
+/Problems/Numbers filtering/out/production/classes/
+/Problems/Only true or false/out/
+/Problems/Only true or false/out/production/classes/
+/Problems/Output elements/out/
+/Problems/Output elements/out/production/classes/
+/Problems/Output names of the methods/out/
+/Problems/Output names of the methods/out/production/classes/
+/Problems/Output the list's elements/out/
+/Problems/Output the list's elements/out/production/classes/
+/Problems/Palindrome or not/out/
+/Problems/Palindrome or not/out/production/classes/
+/Problems/Prime numbers/out/
+/Problems/Prime numbers/out/production/classes/
+/Problems/Print dates of a year with an offset/out/
+/Problems/Print dates of a year with an offset/out/production/classes/
+/Problems/Print elements of a stream/out/
+/Problems/Print elements of a stream/out/production/classes/
+/Problems/Quality control system/out/
+/Problems/Quality control system/out/production/classes/
+/Problems/Range quadratic sum/out/
+/Problems/Range quadratic sum/out/production/classes/
+/Problems/Reducer operator/out/
+/Problems/Reducer operator/out/production/classes/
+/Problems/Remove comments/out/
+/Problems/Remove comments/out/production/classes/
+/Problems/Remove elements of a collection/out/
+/Problems/Remove elements of a collection/out/production/classes/
+/Problems/Remove extra spaces/out/
+/Problems/Remove extra spaces/out/production/classes/
+/Problems/Remove HTML tags/out/
+/Problems/Remove HTML tags/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Removing elements/out/
+/Problems/Removing elements/out/production/classes/
+/Problems/Return empty string when argument is null/out/
+/Problems/Return empty string when argument is null/out/production/classes/
+/Problems/Return time without seconds/out/
+/Problems/Return time without seconds/out/production/classes/
+/Problems/Returning from a method/out/
+/Problems/Returning from a method/out/production/classes/
+/Problems/Returning values from an anonymous class/out/
+/Problems/Returning values from an anonymous class/out/production/classes/
+/Problems/Reversed list/out/
+/Problems/Reversed list/out/production/classes/
+/Problems/Rotating table/out/
+/Problems/Rotating table/out/production/classes/
+/Problems/Safe converting/out/
+/Problems/Safe converting/out/production/classes/
+/Problems/Safe password/out/
+/Problems/Safe password/out/production/classes/
+/Problems/Seconds between two time points/out/
+/Problems/Seconds between two time points/out/production/classes/
+/Problems/Seconds since start of a day/out/
+/Problems/Seconds since start of a day/out/production/classes/
+/Problems/Secret codes/out/
+/Problems/Secret codes/out/production/classes/
+/Problems/Set average/out/
+/Problems/Set average/out/production/classes/
+/Problems/Sherlock Holmes and removing of characters/out/
+/Problems/Sherlock Holmes and removing of characters/out/production/classes/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Problems/Some hours and minutes ago/out/
+/Problems/Some hours and minutes ago/out/production/classes/
+/Problems/Sorting sequences/out/
+/Problems/Sorting sequences/out/production/classes/
+/Problems/Sorting the absolute values/out/
+/Problems/Sorting the absolute values/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Split a list into sublists/out/
+/Problems/Split a list into sublists/out/production/classes/
+/Problems/Squares list/out/
+/Problems/Squares list/out/production/classes/
+/Problems/Start or end of a word/out/
+/Problems/Start or end of a word/out/production/classes/
+/Problems/Strict superset/out/
+/Problems/Strict superset/out/production/classes/
+/Problems/String concatenation/out/
+/Problems/String concatenation/out/production/classes/
+/Problems/String reverser/out/
+/Problems/String reverser/out/production/classes/
+/Problems/Substitution cipher/out/
+/Problems/Substitution cipher/out/production/classes/
+/Problems/Subtracting hours and adding minutes/out/
+/Problems/Subtracting hours and adding minutes/out/production/classes/
+/Problems/Sum of divisors/out/
+/Problems/Sum of divisors/out/production/classes/
+/Problems/Symmetric difference/out/
+/Problems/Symmetric difference/out/production/classes/
+/Problems/The address book/out/
+/Problems/The address book/out/production/classes/
+/Problems/The average salary/out/
+/Problems/The average salary/out/production/classes/
+/Problems/The chain of responsibility/out/
+/Problems/The chain of responsibility/out/production/classes/
+/Problems/The first and the last day of a month/out/
+/Problems/The first and the last day of a month/out/production/classes/
+/Problems/The first day of a month or not/out/
+/Problems/The first day of a month or not/out/production/classes/
+/Problems/The first index of a sublist/out/
+/Problems/The first index of a sublist/out/production/classes/
+/Problems/The intersection of time ranges/out/
+/Problems/The intersection of time ranges/out/production/classes/
+/Problems/The last day of a month/out/
+/Problems/The last day of a month/out/production/classes/
+/Problems/The LIFO principle in action/out/
+/Problems/The LIFO principle in action/out/production/classes/
+/Problems/The longest string in the list/out/
+/Problems/The longest string in the list/out/production/classes/
+/Problems/The n-th day from the end of a month/out/
+/Problems/The n-th day from the end of a month/out/production/classes/
+/Problems/The New Year is coming (or not)/out/
+/Problems/The New Year is coming (or not)/out/production/classes/
+/Problems/The passed hours since the beginning of year/out/
+/Problems/The passed hours since the beginning of year/out/production/classes/
+/Problems/The product of squares/out/
+/Problems/The product of squares/out/production/classes/
+/Problems/The root of a number/out/
+/Problems/The root of a number/out/production/classes/
+/Problems/The sum of odd numbers/out/
+/Problems/The sum of odd numbers/out/production/classes/
+/Problems/The ten most frequent words/out/
+/Problems/The ten most frequent words/out/production/classes/
+/Problems/The total sum of canceled transactions/out/
+/Problems/The total sum of canceled transactions/out/production/classes/
+/Problems/The total sum of transaction by each account/out/
+/Problems/The total sum of transaction by each account/out/production/classes/
+/Problems/Throw a checked exception/out/
+/Problems/Throw a checked exception/out/production/classes/
+/Problems/Throw an IOException/out/
+/Problems/Throw an IOException/out/production/classes/
+/Problems/Throw an unchecked exception/out/
+/Problems/Throw an unchecked exception/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Problems/Vehicle registration number/out/
+/Problems/Vehicle registration number/out/production/classes/
+/Problems/War and Peace/out/
+/Problems/War and Peace/out/production/classes/
+/Problems/Which brackets are balanced/out/
+/Problems/Which brackets are balanced/out/production/classes/
+/Problems/Whole hours between two date-time pairs/out/
+/Problems/Whole hours between two date-time pairs/out/production/classes/
+/Problems/Working with queue/out/
+/Problems/Working with queue/out/production/classes/

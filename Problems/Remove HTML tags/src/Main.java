@@ -1,0 +1,17 @@
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String stringWithHTMLTags = scanner.nextLine();
+
+        String tag = "<.*?>";
+        Pattern tagPattern = Pattern.compile(tag);
+        Matcher matcher = tagPattern.matcher(stringWithHTMLTags);
+        String result = matcher.replaceAll("");
+        System.out.println(result);
+    }
+}
